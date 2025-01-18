@@ -1,6 +1,6 @@
 # Debattix 🎯
 
-![Debattix Logo](link-to-your-logo.png)
+![Debattix Logo]([link-to-your-logo.png](https://github.com/AhmedYasserIbrahim/Debattix/blob/main/Debattix%20Logo.png))
 
 ## Where Bold Ideas Meet Brilliant Delivery
 
