@@ -1,5 +1,5 @@
 # Debattix 🎯
-
+ 
 ![Debattix Logo](https://github.com/AhmedYasserIbrahim/Debattix/blob/main/Debattix%20Logo.png)
 
 ## Where Bold Ideas Meet Brilliant Delivery
